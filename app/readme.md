@@ -14,6 +14,8 @@ A free-forever Okta account
 step 1:
 spin up a MongoDB container is:
 $ docker-compose up
+MongoRepository class reads a environment variable MONGO_URL . To export the environment variable, run:
+$ export MONGO_URL=mongodb://mongo_user:mongo_secret@0.0.0.0:27017/
 
 step 2:
 run your ReST API with the command below:
