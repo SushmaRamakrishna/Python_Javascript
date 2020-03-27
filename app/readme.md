@@ -1,8 +1,8 @@
 https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react 
 
-JavaScript application using React in the front-end and we are also going to build a ReST API written in Python which is going to persist. 
+JavaScript application using React in the front-end and a ReST API written in Python which is going to persist. 
 
-Flask to help you to quickly put together a ReST API. 
+Flask to help put together a ReST API. 
 
 A few things you will need:
 
